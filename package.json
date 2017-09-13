@@ -1,0 +1,19 @@
+{
+  "name": "photo-wall",
+  "description": "A new project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "wag dev",
+    "start": "wag start",
+    "build": "wag build --remove",
+    "test": "wag test"
+  },
+  "devDependencies": {
+    "wag-cli": "3.3.3"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
